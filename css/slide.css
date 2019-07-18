@@ -1,0 +1,11 @@
+  /*slides*/
+
+#slidy-container {
+
+overflow: hidden;
+  width: 1100px;
+  margin-top:10px;
+}
+
+#slidy { margin: 0; font-size: 0; position: relative; width: 500%; }
+#slidy img { width: 30%; height:550px; }  
